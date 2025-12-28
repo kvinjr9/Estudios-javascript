@@ -1,0 +1,28 @@
+*{
+    text-align: center;   
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
+input{
+    border-radius: 15px;
+    width: 200px;
+    height: 40px;
+    border: none;
+    box-shadow: 0 0 6px white;
+    color: white;
+}
+button{
+    margin: 10px;
+    color: white;
+    border-radius: 15px;
+    width: 60px;
+    height: 40px;
+    box-shadow: 0 0 6px wheat;
+    border: none;
+}
